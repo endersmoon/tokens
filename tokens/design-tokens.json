@@ -1,0 +1,346 @@
+{
+  "Caption 2": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "12px",
+      "fontWeight": 400,
+      "lineHeight": "16px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "03ee731c1647089425d1ee136d3acee54f286533",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 4": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "36px",
+      "fontWeight": 600,
+      "lineHeight": "40px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "0d5dec8d2e07d88afa4fbdd198298b5f397f387b",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Display": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "128px",
+      "fontWeight": 700,
+      "lineHeight": "128px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "153cfabea0370bdfe5921264dfbd8f7c32a90997",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Subtitle 1": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "20px",
+      "fontWeight": 500,
+      "lineHeight": "28px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "20d7c4581e899b9237d070112682534499b6cc29",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 0": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "96px",
+      "fontWeight": 700,
+      "lineHeight": "96px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "30d0ceecfb675b67b2ecf6a91a0229477814409e",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Emphasis 1": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "20px",
+      "fontWeight": 600,
+      "lineHeight": "28px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "39a43ba5607e0d8ebf6717b4a64f10ee792141a7",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 6": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "24px",
+      "fontWeight": 500,
+      "lineHeight": "32px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "3cf13d0fdc35b0e884d23eb3bed3bfe5d07104e4",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Subtitle 4": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "14px",
+      "fontWeight": 500,
+      "lineHeight": "20px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "4520ac8e078b4efae140d7573c5cc3dc2b954be3",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Subtitle 2": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "18px",
+      "fontWeight": 500,
+      "lineHeight": "28px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "613004f41cb608c191fe048c328693f11679381e",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Body 1": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "16px",
+      "fontWeight": 400,
+      "lineHeight": "24px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "648edd3c3691551382c15fea4d9e8c1c60852423",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Body 2": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "14px",
+      "fontWeight": 400,
+      "lineHeight": "20px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "7076396157120a25b1b74e31ad07682de31f43ed",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 2": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "60px",
+      "fontWeight": 700,
+      "lineHeight": "60px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "787ec21467a77d626525c6c5f29fc00353bfd6b0",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Caption 1": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "12px",
+      "fontWeight": 600,
+      "lineHeight": "16px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "78cf27f2bea35d5b185ab07ece5ad65f3cc4c3a7",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 1": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "72px",
+      "fontWeight": 700,
+      "lineHeight": "72px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "817d1743229a73ec4cde97a3f9048833c2ed3cab",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 5": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "30px",
+      "fontWeight": 500,
+      "lineHeight": "36px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "9e351c627639f931986c7c043a2f28462e503e3d",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Emphasis 4": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "14px",
+      "fontWeight": 600,
+      "lineHeight": "20px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "d135256357d57fe32e877d3ca791a16b8b597968",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Title 3": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "48px",
+      "fontWeight": 600,
+      "lineHeight": "48px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "d576a04e7c894643dd07ba71adf4f7dd9042aed2",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Subtitle 5": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "12px",
+      "fontWeight": 500,
+      "lineHeight": "16px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "db6ce2d2808e63916c8793719e1f29a400f1be4c",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Emphasis 2": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "18px",
+      "fontWeight": 600,
+      "lineHeight": "28px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "e6614df0eb1463d9c5feb5e2ee66b12827afcd22",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Emphasis 3": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "16px",
+      "fontWeight": 600,
+      "lineHeight": "24px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "ec65c0ce2938db26b5da787171e0de605b95869d",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "Subtitle 3": {
+    "$type": "typography",
+    "$value": {
+      "fontFamily": "Inter",
+      "fontSize": "16px",
+      "fontWeight": 500,
+      "lineHeight": "24px",
+      "letterSpacing": "0px"
+    },
+    "$extensions": {
+      "com.figma": {
+        "styleKey": "ed80bc1523ee8d3cb2de58acb0afda5f701927be",
+        "styleType": "TEXT"
+      }
+    }
+  },
+  "$metadata": {
+    "source": "figma",
+    "fileKey": "5Ln8wAS9hRrAolVsMmMGBf",
+    "fileName": "Pheonix DS",
+    "version": "2316226363248694273",
+    "extractionMode": "styles",
+    "extractedAt": "2026-02-16T08:41:40.470Z"
+  }
+}
